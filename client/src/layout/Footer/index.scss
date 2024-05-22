@@ -1,0 +1,104 @@
+#footer{
+    background-color: #1a1a1a;
+    height: 900px;
+    margin-top: 80px;
+.footertop{
+    text-align: center;
+    h1{
+        font-size: 40px;
+        color: white;
+     padding: 100px;
+    
+    }
+    .input{
+        margin-top: -50px;
+        input{
+           font-size: 23px;
+           padding: 10px;
+           margin-top: 37px;
+           width: 450px;
+           border: 2px solid #ffb405;
+        }
+        button{
+         padding: 17px;
+         background-color: #ffb405;
+         width: 150px;
+        }
+    }
+}
+.footerlefttop{
+    display: flex;
+    align-items: center;
+    .h1{
+        color: white;
+    }
+}
+
+   .pp{
+    width: 250px;
+    margin-top: 20px;
+    color: #a5a5a5
+   }
+   .footerbottom{
+    display: flex;
+    justify-content: space-between;
+
+    nav{
+        display: flex;
+        align-items: center;
+        margin-right: 500px;
+        gap: 18rem;
+    }
+   }
+   .lili{width: 300px;
+    
+margin-bottom: 20px;
+
+a{
+    color: #a5a5a5;
+}}
+.menu{
+    margin-top: 14px;
+    margin-left: 50px;
+    color: white;
+    
+    li{
+        a{
+            color: #a5a5a5;
+            margin-top: 10px;
+        }
+    }
+}
+.usefull{
+    color:white;
+    li{
+        a{
+            color: #a5a5a5;
+            
+        }
+    }
+
+}
+.concat{
+    color: #a5a5a5;
+}
+   .son{
+    color: white;
+   }
+   .left{
+    color: white;
+   }
+   .footermorebottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   .icons{
+    font-size: 20px;
+    color: white;
+    margin-right: 10px;
+   }
+   }
+   .sari{
+    color: #ffb405;
+   }
+}

@@ -11,6 +11,8 @@
         background-color: white;
         height: 90px;
         padding: 0 0 0 30px;
+        position: fixed;
+        width: 1200px;
     }
     nav{
         ul{
@@ -41,4 +43,51 @@
     .img{
         display: flex;
     }
+    .headermiddle{
+        span{
+            background-color: #ffb405;
+        }
+        
+        .h1{
+            color: white;
+            text-align: center;
+            padding: 250px;
+            font-size: 60px;
+            
+        }
+    }
+
+    .imgbottom{
+        img{
+            width: 100px;
+        height: 60px;
+
+
+        }
+        
+    }
+    .div1{
+        display: flex;
+        background-color: #1a1a1a;
+        padding: 40px;
+    }
+
+    .divbuttons{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .text{
+        h1{
+            color: white;
+            font-size: 20px;
+            margin-bottom: 10px;
+            
+        }
+        h2{
+            color: white;
+            font-size: 17px;
+        }
+    }
 }
+
